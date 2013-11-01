@@ -1,4 +1,4 @@
-nepal-in-sql
+What is nepal-in-sql ?
 ============
 
-Nepal information in SQL 
+This is a collection of SQL query about Nepal. SQL query for 14 zones and 75 districts of Nepal are there.
